@@ -6,4 +6,4 @@ Dependencies:
 - speech_recognition
 - pyperclip
 
-Video demonstration: 
+Video demonstration: https://youtu.be/9CdJaNvMptI
