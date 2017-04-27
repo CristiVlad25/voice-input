@@ -2,7 +2,6 @@
 
 from tkinter import *
 from tkinter import ttk
-import webbrowser
 import speech_recognition as sr
 from pygame import mixer
 import pyperclip
